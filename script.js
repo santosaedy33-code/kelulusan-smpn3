@@ -1,5 +1,5 @@
 const API_URL =
-"https://script.google.com/macros/s/AKFYCBXXXXXXX/exec";
+"https://script.google.com/macros/s/AKfycbxnuwUslOqgwqMv5gm1TvGqYEeMTjcAGnnZMJ8uDSoW_gs44aTHNmZMt5iWxN6qashHvw/exec";
 
 async function cekKelulusan(){
 
